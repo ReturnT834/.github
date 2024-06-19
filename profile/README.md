@@ -14,11 +14,12 @@ Requirements to add a repository to the organization https://github.com/neccton-
 | Repository name                                       | Owner[^1]                                             | NECCTON task | short description |
 |       :---:                                           |  :---:                                            |     ---:     |    :---            |
 |    [.github](https://github.com/ReturnT834)         | [@plazzari](https://www.github.com/plazzari)          | 8.3.4          | description of the github organization |
-|    [.github](https://github.com/ReturnT834/NAD_analysis_tools)    | [@spiani](https://github.com/spiani)    | 8.2.4          | Visualization and statistical analysys of physical/biogeochemical indicators |
+|    [.github](https://github.com/ReturnT834/NAD_analysis_tools)    | [@spiani](https://github.com/spiani)    | 8.2.4          | Visualization and statistical analysys tools of physical/biogeochemical indicators |
 
+[^1]:indicate here the github login of the main contact for the code.
 
 ### Content of a repository
-A GitHub repository of the NECCTON GitHub organization contains the following file:
+A GitHub repository of the RETURN GitHub organization should contain the following file:
 
 - A `LICENCE` file: RETURN encourages the use of open-source licences.
 - A `CODEOWNERS`file: indicate the main contacts for the repository. See [here](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-
