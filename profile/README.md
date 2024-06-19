@@ -14,7 +14,7 @@ Requirements to add a repository to the organization https://github.com/neccton-
 | Repository name                                       | Owner[^1]                                             | NECCTON task | short description |
 |       :---:                                           |  :---:                                            |     ---:     |    :---            |
 |    [.github](https://github.com/ReturnT834)         | [@plazzari](https://www.github.com/plazzari)          | 8.3.4          | description of the github organization |
-|    [.github](https://github.com/ReturnT834/NAD_analysis_tools)    | [@spiani](https://github.com/spiani)    | 8.2.4          | Visualization and statistical analysys tools of physical/biogeochemical indicators |
+|    [NAD_analysis_tools](https://github.com/ReturnT834/NAD_analysis_tools)    | [@spiani](https://github.com/spiani)    | 8.2.4          | Visualization and statistical analysys tools of physical/biogeochemical indicators |
 
 [^1]:indicate here the github login of the main contact for the code.
 
