@@ -25,8 +25,7 @@ A GitHub repository of the RETURN GitHub organization should contain the followi
 - A `CODEOWNERS`file: indicate the main contacts for the repository. See [here](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-
 code-owners) for more details.
 - A `README` file: see the minimum requirement for the README file [here](#readme)
-- One or several Jupyter notebooks to demonstrate the algorithm and the baseline. The baseline corresponds to an existing algorithm or a minimal solution (e.g. linear regression) that the algorithm is e
-xpected to outperform.
+- One or several Jupyter notebooks to demonstrate the algorithm with a standard application.
 
 #### README
 The README file must contain a description for:
