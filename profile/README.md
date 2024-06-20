@@ -22,8 +22,7 @@ Requirements to add a repository to the organization https://github.com/neccton-
 A GitHub repository of the RETURN GitHub organization should contain the following file:
 
 - A `LICENCE` file: RETURN encourages the use of open-source licences.
-- A `CODEOWNERS`file: indicate the main contacts for the repository. See [here](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-
-code-owners) for more details.
+- A `CODEOWNERS`file: indicate the main contacts for the repository. See [here](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners) for more details.
 - A `README` file: see the minimum requirement for the README file [here](#readme)
 - One or several Jupyter notebooks to demonstrate the algorithm with a standard application.
 
