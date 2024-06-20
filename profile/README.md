@@ -11,7 +11,7 @@ Requirements to add a repository to the organization https://github.com/neccton-
 - Follow the [recommendations](#recommendations) as much as possible
 - Complete the table here :
 
-| Repository name                                       | Owner[^1]                                             | NECCTON task | short description |
+| Repository name                                       | Owner[^1]                                             | RETURN task | short description |
 |       :---:                                           |  :---:                                            |     ---:     |    :---            |
 |    [.github](https://github.com/ReturnT834)         | [@plazzari](https://www.github.com/plazzari)          | 8.3.4          | description of the github organization |
 |    [NAD_analysis_tools](https://github.com/ReturnT834/NAD_analysis_tools)    | [@spiani](https://github.com/spiani)    | 8.2.4          | Visualization and statistical analysys tools of physical/biogeochemical indicators |
@@ -31,7 +31,7 @@ code-owners) for more details.
 The README file must contain a description for:
 - the data source
 - the baseline (or a link to the jupyter notebook of the baseline)
-- the metrics used to validate the output(s) of the algorithm
+- if possible, the metrics used to validate the output(s) of the algorithm
 - the list of dependencies (name of the dependency and full version number used) needed to use the code, and use language-specific tools to install the dependencies (recommended)
 - the documentation (e.g., via a link). It should allow a potential user to understand the code and reuse it. 
 - Citations and links for RETURN publications using or introducing the code, when applicable.
