@@ -15,8 +15,9 @@ Requirements to add a repository to the organization [https://github.com/ReturnT
 |       :---:                                           |  :---:                                            |     ---:     |    :---            |
 |    [.github](https://github.com/ReturnT834)         | [@plazzari](https://www.github.com/plazzari)          | 8.3.4          | description of the github organization |
 |    [NAD_analysis_tools](https://github.com/ReturnT834/NAD_analysis_tools)    | [@spiani](https://github.com/spiani)    | 8.2.4          | Visualization and statistical analysys tools of physical/biogeochemical indicators |
+|    [SR_Unet]    | [@feadobbati](https://github.com/fadobbati),[@lorenzobonin](https://github.com/lorenzobonin),@squerin    | 8.3.3, 8.3.4          |  (To be featured) Hyper resolution tool based on deep learning Unet architecture |
 
-[^1]:indicate here the github login of the main contact for the code.
+[^1]:indicate here the github login of the main contacts for the code.
 
 ### Content of a repository
 A GitHub repository of the RETURN GitHub organization should contain the following file:
