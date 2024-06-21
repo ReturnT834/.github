@@ -30,7 +30,7 @@ A GitHub repository of the RETURN GitHub organization should contain the followi
 The README file must contain a description for:
 - the data source
 - the baseline (or a link to the jupyter notebook of the baseline)
-- if possible, the metrics used to validate the output(s) of the algorithm
+- when applicable, the metrics used to validate the output(s) of the algorithm
 - the list of dependencies (name of the dependency and full version number used) needed to use the code, and use language-specific tools to install the dependencies (recommended)
-- the documentation (e.g., via a link). It should allow a potential user to understand the code and reuse it. 
+- the documentation (e.g., via a link) that should allow a potential user to understand the code and reuse it. 
 - Citations and links for RETURN publications using or introducing the code, when applicable.
