@@ -11,7 +11,7 @@ Requirements to add a repository to the organization [https://github.com/ReturnT
 - Follow the [recommendations](#recommendations) as much as possible
 - Complete the table here :
 
-| Repository name                                       | Owner[^1]                                             | RETURN task | short description |
+| Repository name                                       | Responsible[^1]                                             | RETURN task | short description |
 |       :---:                                           |  :---:                                            |     ---:     |    :---            |
 |    [.github](https://github.com/ReturnT834)         | [@plazzari](https://www.github.com/plazzari)          | 8.3.4          | description of the github organization |
 |    [NAD_analysis_tools](https://github.com/ReturnT834/NAD_analysis_tools)    | [@spiani](https://github.com/spiani)    | 8.2.4          | Visualization and statistical analysys tools of physical/biogeochemical indicators |
