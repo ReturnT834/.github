@@ -5,7 +5,7 @@ This organization contains repositories of tools developed within [Return Projec
 ## Guideline for a repository in the organization
 
 ### How to add a repository?
-Requirements to add a repository to the organization https://github.com/neccton-algo:
+Requirements to add a repository to the organization [https://github.com/ReturnT834]:
 - Be a member of the [RETURNT834](https://github.com/ReturnT834) project
 - Put the mandatory files in the respository as described [here](#content-of-a-repository).
 - Follow the [recommendations](#recommendations) as much as possible
