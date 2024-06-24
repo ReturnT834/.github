@@ -35,3 +35,12 @@ The README file must contain a description for:
 - the list of dependencies (name of the dependency and full version number used) needed to use the code, and use language-specific tools to install the dependencies (recommended)
 - the documentation (e.g., via a link) that should allow a potential user to understand the code and reuse it. 
 - Citations and links for RETURN publications using or introducing the code, when applicable.
+
+### Recommendations
+In addition to the points mentionned above, it is strongly suggested to:
+- When available use a data API for easy access to the data when testing the code
+- For complex projects, make use of GitHub actions to run unit tests when pushing the code on the repository (or when merging with the `main` branch). See [here](https://docs.github.com/en/actions) for a documentation of GitHub actions.
+- Use language specific tools (e.g. conda, pipenv) to define the running environment.
+- Use the latest best coding practices. For more details, see [here](https://peps.python.org/pep-0008/)
+- Upload code to the organization code that is specific to the RETURN project. Other generic tools can be hosted elsewhere.
+
