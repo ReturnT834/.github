@@ -37,7 +37,7 @@ The README file must contain a description for:
 - Citations and links for RETURN publications using or introducing the code, when applicable.
 
 ### Recommendations
-In addition to the points mentionned above, it is strongly suggested to:
+In addition to the points mentioned above, it is strongly suggested to:
 - When available use a data API for easy access to the data when testing the code
 - For complex projects, make use of GitHub actions to run unit tests when pushing the code on the repository (or when merging with the `main` branch). See [here](https://docs.github.com/en/actions) for a documentation of GitHub actions.
 - Use language specific tools (e.g. conda, pipenv) to define the running environment.
